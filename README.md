@@ -1,2 +1,2 @@
-# SocialMediaApp
+# Social Media Application
  
